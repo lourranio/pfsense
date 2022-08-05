@@ -16,3 +16,6 @@ Agora podemos começar a criar alguns usuários. No menu do sistema, vá para Ge
 1. https://blog-vonhewitt-com.translate.goog/2017/08/pfsense-openvpn-setup-with-freeradius3/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp
 
 2. https://vorkbaard.nl/how-to-set-up-openvpn-with-google-authenticator-on-pfsense/
+
+
+3. https://github.com/jaredhendrickson13/pfsense-api
