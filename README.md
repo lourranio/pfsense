@@ -19,3 +19,11 @@ Agora podemos começar a criar alguns usuários. No menu do sistema, vá para Ge
 
 
 3. https://github.com/jaredhendrickson13/pfsense-api
+
+
+# --------------------------------
+
+## Set up Free Radius on PfSense with two factor authentication for OpenVPN
+```
+https://github.com/lourranio/pfsense.git
+```
